@@ -1,12 +1,11 @@
 ﻿---
 layout: default
-title: Hello, World
+title: Hello New World
 ---
 
-{{ page.title }}
-================
+## {{ page.title }}
 
-##  海子
+###  海子
 
 - 中文
 
