@@ -2,7 +2,8 @@
 layout: default
 title: Hello, World
 ---
-
+{{ page.title }}
+==========
 ##  海子
 
 - 中文
